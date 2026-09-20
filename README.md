@@ -1,6 +1,8 @@
 # er
 Polarization index, Esteban and Ray (Econometrica, 1994) Use er With STATA 19
 
+https://www.youtube.com/watch?v=elUsCrK2EEA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
